@@ -39,9 +39,9 @@ intersection of software engineering, business, and fashion.
 
 | Project | Description |
 |---|---|
-| [Dns-blocker](#) | A cloud-hosted DNS server that intercepts and blocks ad-related domain requests before they even load-covering browsers |
-| [ElimuLocal](#) | Offline campus study resource platform |
-| [SecureAid](#) | Blockchain-based fundraising platform (React/Node.js/Solidity) |
+| [Dns-blocker](https://github.com/Rkelly-dot/dns-blocker) | A cloud-hosted DNS server that intercepts and blocks ad-related domain requests before they even load-covering browsers |
+| [ElimuLocal](https://github.com/Rkelly-dot/elimulocal) | Offline campus study resource platform |
+| [Net-cat](https://github.com/Rkelly-dot/net-cat) | Multi-room TCP chat server in Go |
 
 ---
 
