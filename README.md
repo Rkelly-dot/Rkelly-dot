@@ -1,11 +1,10 @@
 <h1 align="center">Yoh Fam! 👋</h1>
 
-<img src="assets/profile.png" width="200" align="right" />
-
+<img width="1024" height="1024" alt="ChatGPT Image Jul 16, 2026, 12_00_50 PM" src="https://github.com/user-attachments/assets/c5247c92-d0bb-4af7-a27d-c80ea5ef2788" />
 I'm <b>Ryan Kelly (Drako)</b> — a Software Engineering apprentice at <b>Zone01 Kisumu</b>, 
 specializing in backend logic with <b>Go</b>, and growing my full-stack chops with 
 JavaScript. I'm also deep into <b>Bitcoin & the Lightning Network</b>, and I sit at the 
-intersection of software engineering, fashion, and content creation.
+intersection of software engineering, business, and fashion.
 
 <br clear="right"/>
 
@@ -31,16 +30,16 @@ intersection of software engineering, fashion, and content creation.
 
 ### 🚀 Currently Building / Exploring
 
-- 🔭 Working through Zone01's **piscine-js** curriculum (DOM, functional programming, timing utilities)
+- 🔭 Working through Zone01's curriculum (DOM, functional programming, timing utilities)
 - ⚡ Exploring Bitcoin & Lightning Network development (LND, regtest nodes)
 - 📊 Business Analyst on **Wapi** — a Kenyan livestreaming & creator monetization platform
-- 👗 Interested in fashion-tech — building a reverse image search project ("Get This Look")
+- 👗 Interested in fashion-tech — building a reverse image search project ("covet & StyleAi")
 
 ### 📌 Featured Projects
 
 | Project | Description |
 |---|---|
-| [NetCat](#) | Multi-room TCP chat server in Go |
+| [Dns-blocker](#) | A cloud-hosted DNS server that intercepts and blocks ad-related domain requests before they even load-covering browsers |
 | [ElimuLocal](#) | Offline campus study resource platform |
 | [SecureAid](#) | Blockchain-based fundraising platform (React/Node.js/Solidity) |
 
